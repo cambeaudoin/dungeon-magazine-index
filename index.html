@@ -5,47 +5,57 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>5e Character Creator</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u"
-        crossorigin="anonymous">
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp"
-        crossorigin="anonymous">
+    <title>Dungeon Magazine Adventure List</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="assets/styles.css">
+    <link rel="stylesheet" href="assets/font-awesome.min.css">
 </head>
 
 <body ng-app="characterBuilder" ng-controller="MainController">
     <div class="container">
-        <h1>5e Character Creator</h1>
+        <h1>Dungeon Magazine Adventure List</h1>
         <div class="container-fluid">
-            <table class="table table-striped">
-                <caption>A list of all Dungeon Magazine</caption>
+            <table ng-if="content" class="table table-striped">
+                <caption>A list of all Dungeon Magazine Adventures</caption>
                 <tr>
-                    <th>Level (Low)</th>
-                    <th>Level (High)</th>
-                    <th>Title</th>
-                    <th>Author(s)</th>
-                    <th>Issue</th>
-                    <th>Edition</th>
-                    <th>Campaign</th>
-                    <th>Notes</th>
+                    <th ng-click="sortBy('lvlLow')">Level (Low) <span ng-if="columnName === 'lvlLow'" sort-arrow></span></th>
+                    <th ng-click="sortBy('lvlHigh')">Level (High) <span ng-if="columnName === 'lvlHigh'" sort-arrow></span></th>
+                    <th ng-click="sortBy('title')">Title <span ng-if="columnName === 'title'" sort-arrow></span></th>
+                    <th ng-click="sortBy('author')">Author(s) <span ng-if="columnName === 'author'" sort-arrow></span></th>
+                    <th ng-click="sortBy('issue')">Issue <span ng-if="columnName === 'issue'" sort-arrow></span></th>
+                    <th ng-click="sortBy('edition')">Edition <span ng-if="columnName === 'edition'" sort-arrow></span></th>
+                    <th ng-click="sortBy('campaign')">Campaign <span ng-if="columnName === 'campaign'" sort-arrow></span></th>
+                    <th ng-click="sortBy('notes')">Notes <span ng-if="columnName === 'notes'" sort-arrow></span></th>
                 </tr>
-                <tr ng-repeat="adv in content">
-                    <td>{{adv.lvlLow}}</td>
-                    <td>{{adv.lvlHigh}}</td>
-                    <td>{{adv.title}}</td>
-                    <td>{{adv.author}}</td>
-                    <td>{{adv.issue}}</td>
-                    <td>{{adv.edition}}</td>
-                    <td>{{adv.campaign}}</td>
-                    <td>{{adv.notes}}</td>
+                <tr>
+                    <th> <input type="number" ng-model="search.lvlLow"> </th>
+                    <th> <input type="number" ng-model="search.lvlHigh"> </th>
+                    <th> <input type="text" ng-model="search.title" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="text" ng-model="search.author" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="number" ng-model="search.issue"> </th>
+                    <th> <input type="number" ng-model="search.edition"> </th>
+                    <th> <input type="text" ng-model="search.campaign" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="text" ng-model="search.notes" ng-model-options="{debounce: 500}"> </th>
+                </tr>
+                <!--<tr ng-repeat="adv in content | orderBy:columnName:reverse | filter:search">-->
+                <tr ng-repeat="adv in content | orderBy:columnName:reverse | contentFilter:search">
+                    <td>{{::adv.lvlLow}}</td>
+                    <td>{{::adv.lvlHigh}}</td>
+                    <td>{{::adv.title}}</td>
+                    <td>{{::adv.author}}</td>
+                    <td>{{::adv.issue}}</td>
+                    <td>{{::adv.edition}}</td>
+                    <td>{{::adv.campaign}}</td>
+                    <td>{{::adv.notes}}</td>
                 </tr>
             </table>
-
         </div>
     </div>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
-        crossorigin="anonymous"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.min.js"></script>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.min.js"></script>
     <script src="assets/script.js"></script>
 </body>
 
