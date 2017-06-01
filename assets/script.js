@@ -14,16 +14,15 @@ app.controller('MainController', function ($scope, $http) {
     $scope.columnName = columnName;
   }
 
-  // $scope.search = {};
-
-  // $scope.filterFunction = function (elem) {
-  //   console.log(elem);
-  //   return ($scope.search.lvlLow ? elem.lvlLow === $scope.search.lvlLow : elem) &&
-  //          ($scope.search.lvlHigh ? elem.lvlHigh === $scope.search.lvlHigh : elem) &&
-  //          ($scope.search.title ? angular.lowercase(elem.title).indexOf(angular.lowercase($scope.search.title) || '') : elem)
-  //   // return elem;
-  // }
-
+  $scope.clearFilters = function () {
+    var fields = document.querySelectorAll('input');
+    fields.forEach(function(input) {
+      angular.element(input).$setPristine;
+      // console.log(input);
+      // input.value = null;
+      // $scope.content.reload();
+    })
+  }
 })
 
 app.directive('sortArrow', [function () {
@@ -43,11 +42,18 @@ app.filter('contentFilter', function () {
         var keys = Object.keys(toFilter);
         var filtered = [];
         keys.forEach(function (key) {
-          if (toFilter[key]) {
+          // if (toFilter[key]) {
             filtered = items.filter(function (item) {
-              return (toFilter[key] === item[key])
+              if (typeof toFilter[key] === 'string') {
+                return (toFilter[key] ? item[key].toLowerCase().includes(toFilter[key].toLowerCase()) : item);
+              }
+              return (toFilter[key] ? toFilter[key] === item[key] : item);
             })
-          }
+          // } else {
+          //   filtered = items;
+          // }
+          // if (filtered.length === 0) {
+          // }
         })
         return filtered;
       }

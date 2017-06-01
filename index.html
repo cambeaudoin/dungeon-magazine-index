@@ -13,9 +13,11 @@
 </head>
 
 <body ng-app="characterBuilder" ng-controller="MainController">
-    <div class="container">
+    <div class="container-fluid">
         <h1>Dungeon Magazine Adventure List</h1>
-        <div class="container-fluid">
+        <a href="https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf">Official WotC conversion rules from previous editions</a>
+            <!--<button ng-click="clearFilters()" class="btn btn-default">Clear</button>-->
+            <hr>
             <table ng-if="content" class="table table-striped">
                 <caption>A list of all Dungeon Magazine Adventures</caption>
                 <tr>
@@ -26,19 +28,22 @@
                     <th ng-click="sortBy('issue')">Issue <span ng-if="columnName === 'issue'" sort-arrow></span></th>
                     <th ng-click="sortBy('edition')">Edition <span ng-if="columnName === 'edition'" sort-arrow></span></th>
                     <th ng-click="sortBy('campaign')">Campaign <span ng-if="columnName === 'campaign'" sort-arrow></span></th>
+                    <th ng-click="sortBy('featured')">Featured <span ng-if="columnName === 'featured'" sort-arrow></span></th>
                     <th ng-click="sortBy('notes')">Notes <span ng-if="columnName === 'notes'" sort-arrow></span></th>
+                    <th ng-click="sortBy('adventurePath')">Adventure Path <span ng-if="columnName === 'adventurePath'" sort-arrow></span></th>
                 </tr>
                 <tr>
-                    <th> <input type="number" ng-model="search.lvlLow"> </th>
-                    <th> <input type="number" ng-model="search.lvlHigh"> </th>
+                    <th> <input type="number" min="0" ng-model="search.lvlLow"> </th>
+                    <th> <input type="number" min="0" max="30" ng-model="search.lvlHigh"> </th>
                     <th> <input type="text" ng-model="search.title" ng-model-options="{debounce: 500}"> </th>
                     <th> <input type="text" ng-model="search.author" ng-model-options="{debounce: 500}"> </th>
-                    <th> <input type="number" ng-model="search.issue"> </th>
-                    <th> <input type="number" ng-model="search.edition"> </th>
+                    <th> <input type="number" min="0" max="221" ng-model="search.issue"> </th>
+                    <th> <input type="number" min="0" max="4" ng-model="search.edition"> </th>
                     <th> <input type="text" ng-model="search.campaign" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="checkbox" ng-model="search.featured" ng-model-options="{debounce: 500}"> </th>
                     <th> <input type="text" ng-model="search.notes" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="text" ng-model="search.adventurePath" ng-model-options="{debounce: 500}"> </th>
                 </tr>
-                <!--<tr ng-repeat="adv in content | orderBy:columnName:reverse | filter:search">-->
                 <tr ng-repeat="adv in content | orderBy:columnName:reverse | contentFilter:search">
                     <td>{{::adv.lvlLow}}</td>
                     <td>{{::adv.lvlHigh}}</td>
@@ -47,10 +52,12 @@
                     <td>{{::adv.issue}}</td>
                     <td>{{::adv.edition}}</td>
                     <td>{{::adv.campaign}}</td>
+                    <td><input ng-model="adv.featured" type="checkbox" disabled></td>
                     <td>{{::adv.notes}}</td>
+                    <td>{{::adv.adventurePath}}</td>
                 </tr>
             </table>
-        </div>
+        <!--</div>-->
     </div>
     <script src="bower_components/jquery/dist/jquery.min.js"></script>
     <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
