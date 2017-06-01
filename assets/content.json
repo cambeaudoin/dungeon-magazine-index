@@ -1,0 +1,2472 @@
+{
+  "1" : {
+    "index" : 1,
+    "lvlLow" : 14,
+    "lvlHigh" : 16,
+    "title" : "Art of Deception, The",
+    "author" : "Alexander Winter",
+    "issue" : 217,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "2" : {
+    "index" : 2,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Battle of Emridy Meadows, The",
+    "author" : "Jon Leitheusser & Christopher Perkins",
+    "issue" : 221,
+    "edition" : 5,
+    "campaign" : ""
+  },
+  "3" : {
+    "index" : 3,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Beyond the Crystal Cave",
+    "author" : "Steve Townshend",
+    "issue" : 211,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "4" : {
+    "index" : 4,
+    "lvlLow" : 25,
+    "lvlHigh" : 27,
+    "title" : "Blades of the Stygian Masque",
+    "author" : "Will Doyle",
+    "issue" : 219,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "5" : {
+    "index" : 5,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Blood of Gruumsh",
+    "author" : "Steve Winter",
+    "issue" : 210,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "6" : {
+    "index" : 6,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Captain Slygo’s Treasure",
+    "author" : "Timothy Ide",
+    "issue" : 208,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "7" : {
+    "index" : 7,
+    "lvlLow" : 10,
+    "lvlHigh" : 12,
+    "title" : "Children of Ardore",
+    "author" : "Christopher Perkins",
+    "issue" : 220,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "8" : {
+    "index" : 8,
+    "lvlLow" : 28,
+    "lvlHigh" : 30,
+    "title" : "Court of the Dark Prince",
+    "author" : "John “Ross” Rossomangno",
+    "issue" : 212,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "9" : {
+    "index" : 9,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Cruel as a Desert Wind",
+    "author" : "Christopher Perkins",
+    "issue" : 202,
+    "edition" : 4,
+    "campaign" : "Dark Sun"
+  },
+  "10" : {
+    "index" : 10,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Dark Lantern",
+    "author" : "Craig Campbell",
+    "issue" : 214,
+    "edition" : 4,
+    "campaign" : "Eberron"
+  },
+  "11" : {
+    "index" : 11,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Dark Legacy of Evard",
+    "author" : "Richard Baker",
+    "issue" : 219,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "12" : {
+    "index" : 12,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Dawn of Night, The",
+    "author" : "Shawn Merwin",
+    "issue" : 218,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "13" : {
+    "index" : 13,
+    "lvlLow" : 7,
+    "lvlHigh" : 9,
+    "title" : "Dead for a Spell",
+    "author" : "Christopher Perkins & Scott Fitzgerald Gray",
+    "issue" : 206,
+    "edition" : 4,
+    "campaign" : "Eberron"
+  },
+  "14" : {
+    "index" : 14,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Dead Haven",
+    "author" : "Jeffrey Ludwig",
+    "issue" : 218,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "15" : {
+    "index" : 15,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Death and Taxes",
+    "author" : "Aeryn “Blackdirge” Rudel",
+    "issue" : 201,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "16" : {
+    "index" : 16,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Dread Pirate Braxis, The",
+    "author" : "Jeffrey Ludwig",
+    "issue" : 213,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "17" : {
+    "index" : 17,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Elder Elemental Eye, The",
+    "author" : "Peter Sleijpen & Chris Sims",
+    "issue" : 214,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "18" : {
+    "index" : 18,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Eyes on the Ball",
+    "author" : "Derek Myers",
+    "issue" : 206,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "19" : {
+    "index" : 19,
+    "lvlLow" : 16,
+    "lvlHigh" : 18,
+    "title" : "Face of the Moon",
+    "author" : "John “Ross” Rossomangno",
+    "issue" : 201,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "20" : {
+    "index" : 20,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Fair Barovia",
+    "author" : "Claudio Pozas",
+    "issue" : 207,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "21" : {
+    "index" : 21,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Fall of the Gray Veil",
+    "author" : "Christopher Perkins",
+    "issue" : 211,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "22" : {
+    "index" : 22,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Fjorin’s Foothold",
+    "author" : "Christopher Perkins & Aeryn “Blackdirge” Rudel",
+    "issue" : 209,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "23" : {
+    "index" : 23,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Glitterdust",
+    "author" : "Will Doyle",
+    "issue" : 211,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "24" : {
+    "index" : 24,
+    "lvlLow" : 13,
+    "lvlHigh" : 15,
+    "title" : "Grasp of Thalarkis",
+    "author" : "Craig Campbell",
+    "issue" : 203,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "25" : {
+    "index" : 25,
+    "lvlLow" : 7,
+    "lvlHigh" : 8,
+    "title" : "Hidden Shrine of Tamoachan, The",
+    "author" : "Harold Johnson, Jeff R. Leason, & Stephen Radney-MacFarland",
+    "issue" : 209,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "26" : {
+    "index" : 26,
+    "lvlLow" : 14,
+    "lvlHigh" : 16,
+    "title" : "Hunt for the Heretic",
+    "author" : "Sterling Hershey",
+    "issue" : 203,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "27" : {
+    "index" : 27,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Infernal Wrath",
+    "author" : "Logan Bonner",
+    "issue" : 205,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "28" : {
+    "index" : 28,
+    "lvlLow" : 8,
+    "lvlHigh" : 10,
+    "title" : "Isle of Death, The",
+    "author" : "Jared Espley",
+    "issue" : 202,
+    "edition" : 4,
+    "campaign" : "Dark Sun"
+  },
+  "29" : {
+    "index" : 29,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "King of the Wolves",
+    "author" : "Will Doyle",
+    "issue" : 220,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "30" : {
+    "index" : 30,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Last Slave Lord, The",
+    "author" : "Robert J. Schwalb",
+    "issue" : 215,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "31" : {
+    "index" : 31,
+    "lvlLow" : 8,
+    "lvlHigh" : 10,
+    "title" : "Legacy of Ghere Thau",
+    "author" : "David Noonan",
+    "issue" : 218,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "32" : {
+    "index" : 32,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Lowdown in Highport",
+    "author" : "Thomas M. Reid",
+    "issue" : 221,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "33" : {
+    "index" : 33,
+    "lvlLow" : 7,
+    "lvlHigh" : 9,
+    "title" : "Massacre at Misty River",
+    "author" : "Stacey Janssen",
+    "issue" : 216,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "34" : {
+    "index" : 34,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Never Say Die",
+    "author" : "Claudio Pozas",
+    "issue" : 212,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "35" : {
+    "index" : 35,
+    "lvlLow" : 7,
+    "lvlHigh" : 9,
+    "title" : "No Rest for the Wicked",
+    "author" : "Robert J. Schwalb",
+    "issue" : 214,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "36" : {
+    "index" : 36,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Owlbear Run",
+    "author" : "Christopher Perkins &  Steve Townshend",
+    "issue" : 213,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "37" : {
+    "index" : 37,
+    "lvlLow" : 15,
+    "lvlHigh" : 17,
+    "title" : "Pearl of the Sea Mother",
+    "author" : "John “Ross” Rossomangno",
+    "issue" : 204,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "38" : {
+    "index" : 38,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Prey for Smiley Bob",
+    "author" : "Christopher Perkins",
+    "issue" : 205,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "39" : {
+    "index" : 39,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Rats in the Undercellar",
+    "author" : "Tim Eagon",
+    "issue" : 217,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "40" : {
+    "index" : 40,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Rhyme Gone Wrong, A",
+    "author" : "Craig Campbell",
+    "issue" : 217,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "41" : {
+    "index" : 41,
+    "lvlLow" : 21,
+    "lvlHigh" : 23,
+    "title" : "Rolling Tomb, The",
+    "author" : "Will Doyle",
+    "issue" : 215,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "42" : {
+    "index" : 42,
+    "lvlLow" : 6,
+    "lvlHigh" : 7,
+    "title" : "Siege of Gardmore Abbey",
+    "author" : "Steve Townshend",
+    "issue" : 210,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "43" : {
+    "index" : 43,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Slaark’s Crown",
+    "author" : "Craig Campbell",
+    "issue" : 220,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "44" : {
+    "index" : 44,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Some Assembly Required",
+    "author" : "Jobe Bittman",
+    "issue" : 208,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "45" : {
+    "index" : 45,
+    "lvlLow" : 17,
+    "lvlHigh" : 20,
+    "title" : "Some Like It Hot",
+    "author" : "John “Ross” Rossomangno",
+    "issue" : 216,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "46" : {
+    "index" : 46,
+    "lvlLow" : 8,
+    "lvlHigh" : 9,
+    "title" : "Star-Touched Grove, The",
+    "author" : "Tyler Gelvin",
+    "issue" : 219,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "47" : {
+    "index" : 47,
+    "lvlLow" : 15,
+    "lvlHigh" : 17,
+    "title" : "Starhaunt",
+    "author" : "Craig Campbell &  Christopher Perkins",
+    "issue" : 207,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "48" : {
+    "index" : 48,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Sun Never Rises, The",
+    "author" : "Shawn Merwin",
+    "issue" : 216,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "49" : {
+    "index" : 49,
+    "lvlLow" : 21,
+    "lvlHigh" : 23,
+    "title" : "Sword Collector, The",
+    "author" : "Michael E. Shea",
+    "issue" : 204,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "50" : {
+    "index" : 50,
+    "lvlLow" : 15,
+    "lvlHigh" : 17,
+    "title" : "Tears of the Crocodile God",
+    "author" : "Will Doyle",
+    "issue" : 209,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "51" : {
+    "index" : 51,
+    "lvlLow" : 10,
+    "lvlHigh" : 14,
+    "title" : "Tomb of Horrors",
+    "author" : "Gary Gygax",
+    "issue" : 213,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "52" : {
+    "index" : 52,
+    "lvlLow" : 21,
+    "lvlHigh" : 23,
+    "title" : "Unfriendly Skies",
+    "author" : "Doug Hyatt",
+    "issue" : 205,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "53" : {
+    "index" : 53,
+    "lvlLow" : 7,
+    "lvlHigh" : 9,
+    "title" : "Vainglorious",
+    "author" : "Daniel Helmick",
+    "issue" : 221,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "54" : {
+    "index" : 54,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Village of Hommlet, The",
+    "author" : "Gary Gygax & Andy Collins",
+    "issue" : 212,
+    "edition" : 4,
+    "campaign" : ""
+  },
+  "55" : {
+    "index" : 55,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Vulture’s Feast, The",
+    "author" : "Brian Cortijo &  Christopher Perkins",
+    "issue" : 210,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "56" : {
+    "index" : 56,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "What’s Up in Downshadow",
+    "author" : "Sterling Hershey",
+    "issue" : 204,
+    "edition" : 4,
+    "campaign" : "Forgotten Realms"
+  },
+  "57" : {
+    "index" : 57,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Lady of the Lake",
+    "author" : "Laura Ferguson",
+    "issue" : 5,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "58" : {
+    "index" : 58,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Trouble at Grog’s",
+    "author" : "Grant and David Boucher",
+    "issue" : 4,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "59" : {
+    "index" : 59,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Secrets of the Towers",
+    "author" : "Larry Church",
+    "issue" : 10,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "60" : {
+    "index" : 60,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Assault on Eddistone Point",
+    "author" : "Patricia Nead Elrod",
+    "issue" : 1,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "61" : {
+    "index" : 61,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Falcon’s Peak",
+    "author" : "David Howery",
+    "issue" : 3,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "62" : {
+    "index" : 62,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Grakhirt’s Lair",
+    "author" : "John Nephew",
+    "issue" : 1,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "63" : {
+    "index" : 63,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Lurkers in the Library",
+    "author" : "Patricia Nead Elrod",
+    "issue" : 9,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "64" : {
+    "index" : 64,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Matchmakers, The",
+    "author" : "Patricia Nead Elrod",
+    "issue" : 7,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "65" : {
+    "index" : 65,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Monsterquest",
+    "author" : "Vince Garcia",
+    "issue" : 10,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "66" : {
+    "index" : 66,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Mountain Sanctuary",
+    "author" : "John Nephew",
+    "issue" : 8,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "67" : {
+    "index" : 67,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Nightshade",
+    "author" : "Nigel D. Findley",
+    "issue" : 7,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "68" : {
+    "index" : 68,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Stolen Power, The",
+    "author" : "Robert Kelk",
+    "issue" : 5,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "69" : {
+    "index" : 69,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Huddle Farm",
+    "author" : "Willie Walsh",
+    "issue" : 12,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "70" : {
+    "index" : 70,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Roarwater Caves",
+    "author" : "Willie Walsh",
+    "issue" : 15,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "71" : {
+    "index" : 71,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Caermor",
+    "author" : "Nigel D. Findley",
+    "issue" : 2,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "72" : {
+    "index" : 72,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Escape from the Tower of Midnight",
+    "author" : "Paul Kane",
+    "issue" : 4,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "73" : {
+    "index" : 73,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Light of Lost Souls",
+    "author" : "Nigel D. Findley",
+    "issue" : 12,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "74" : {
+    "index" : 74,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Moor-Tomb Map, The",
+    "author" : "Jon Bailey",
+    "issue" : 13,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "75" : {
+    "index" : 75,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Necropolis",
+    "author" : "Nigel D. Findley",
+    "issue" : 16,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "76" : {
+    "index" : 76,
+    "lvlLow" : 2,
+    "lvlHigh" : 5,
+    "title" : "Masqueraider",
+    "author" : "Randy Maxwell",
+    "issue" : 14,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "77" : {
+    "index" : 77,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Crypt of Istaris, The",
+    "author" : "Richard Fichera",
+    "issue" : 9,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "78" : {
+    "index" : 78,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Fluffy Goes to Heck",
+    "author" : "Rick Reid",
+    "issue" : 4,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "79" : {
+    "index" : 79,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Guardians of the Tomb",
+    "author" : "Carl Smith",
+    "issue" : 1,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "80" : {
+    "index" : 80,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "In the Dwarven King's Court",
+    "author" : "Willie Walsh",
+    "issue" : 2,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "81" : {
+    "index" : 81,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Pit, The",
+    "author" : "Randal S. Doering",
+    "issue" : 17,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "82" : {
+    "index" : 82,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Wards of Witching Ways",
+    "author" : "Christopher Perkins",
+    "issue" : 11,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "83" : {
+    "index" : 83,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Dwarves of Warka, The",
+    "author" : "Fran Hart",
+    "issue" : 16,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "84" : {
+    "index" : 84,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Shrine of Ilsidahur, The",
+    "author" : "John Nephew",
+    "issue" : 10,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "85" : {
+    "index" : 85,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "Blood on the Snow",
+    "author" : "Thomas M. Kane",
+    "issue" : 3,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "86" : {
+    "index" : 86,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Chasm Bridge, The",
+    "author" : "Desmond R. Varady",
+    "issue" : 131,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "87" : {
+    "index" : 87,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Glass House, The",
+    "author" : "Wolfgang Baur",
+    "issue" : 15,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "88" : {
+    "index" : 88,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Stranded on the Baron's Island",
+    "author" : "Willie Walsh",
+    "issue" : 14,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "89" : {
+    "index" : 89,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Vesicant",
+    "author" : "Randal S. Doering",
+    "issue" : 16,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "90" : {
+    "index" : 90,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Dark Tower of Cabilar",
+    "author" : "Michael Ashton & Lee Sperry",
+    "issue" : 1,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "91" : {
+    "index" : 91,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Deadly Sea, The",
+    "author" : "Carol and Robert Pasnak",
+    "issue" : 3,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "92" : {
+    "index" : 92,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "For a Lady's Honor",
+    "author" : "Estes Hammons",
+    "issue" : 8,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "93" : {
+    "index" : 93,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Forbidden Mountain",
+    "author" : "Larry Church",
+    "issue" : 6,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "94" : {
+    "index" : 94,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Hirward's Task",
+    "author" : "Rich Stump",
+    "issue" : 5,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "95" : {
+    "index" : 95,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Hunt in Great Allindel, The",
+    "author" : "Richard W. Emerich",
+    "issue" : 17,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "96" : {
+    "index" : 96,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "Intrigue in the Depths",
+    "author" : "Michael Lach & Rocco Pisto",
+    "issue" : 12,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "97" : {
+    "index" : 97,
+    "lvlLow" : 4,
+    "lvlHigh" : 7,
+    "title" : "White Death",
+    "author" : "Randy Maxwell",
+    "issue" : 6,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "98" : {
+    "index" : 98,
+    "lvlLow" : 4,
+    "lvlHigh" : 8,
+    "title" : "Wounded Worm, The",
+    "author" : "Thomas M Kane",
+    "issue" : 8,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "99" : {
+    "index" : 99,
+    "lvlLow" : 4,
+    "lvlHigh" : 8,
+    "title" : "Wreck of the Shining Star, The",
+    "author" : "Richard W. Emerich",
+    "issue" : 15,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "100" : {
+    "index" : 100,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Elephants' Graveyard, The",
+    "author" : "David Howery",
+    "issue" : 15,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "101" : {
+    "index" : 101,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Phantasm Chasm",
+    "author" : "Erik Kjerland",
+    "issue" : 14,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "102" : {
+    "index" : 102,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "They Also Serve...",
+    "author" : "Robert Kelk",
+    "issue" : 10,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "103" : {
+    "index" : 103,
+    "lvlLow" : 5,
+    "lvlHigh" : 7,
+    "title" : "Treasure Vault of Kasil, The",
+    "author" : "Patrick G. Goshtigian & Nick Kopsinis",
+    "issue" : 13,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "104" : {
+    "index" : 104,
+    "lvlLow" : 5,
+    "lvlHigh" : 8,
+    "title" : "Black Heart of Ulom, The",
+    "author" : "Mark Keavney",
+    "issue" : 11,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "105" : {
+    "index" : 105,
+    "lvlLow" : 5,
+    "lvlHigh" : 8,
+    "title" : "Ruins of Nol-Daer, The",
+    "author" : "H. L. McClesky",
+    "issue" : 13,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "106" : {
+    "index" : 106,
+    "lvlLow" : 5,
+    "lvlHigh" : 8,
+    "title" : "Wooden Mouse, The",
+    "author" : "Roger Smith",
+    "issue" : 11,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "107" : {
+    "index" : 107,
+    "lvlLow" : 5,
+    "lvlHigh" : 9,
+    "title" : "Titan’s Dream, The",
+    "author" : "William Todorsky",
+    "issue" : 2,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "108" : {
+    "index" : 108,
+    "lvlLow" : 6,
+    "lvlHigh" : 8,
+    "title" : "Master of Puppets",
+    "author" : "Carl Sargent",
+    "issue" : 14,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "109" : {
+    "index" : 109,
+    "lvlLow" : 6,
+    "lvlHigh" : 9,
+    "title" : "Kingdom in the Swamp",
+    "author" : "John Nephew",
+    "issue" : 4,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "110" : {
+    "index" : 110,
+    "lvlLow" : 6,
+    "lvlHigh" : 10,
+    "title" : "Into the Fire",
+    "author" : "Grant and David Boucher",
+    "issue" : 1,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "111" : {
+    "index" : 111,
+    "lvlLow" : 7,
+    "lvlHigh" : 9,
+    "title" : "Rotting Willow, The",
+    "author" : "Edward P. Bromley III",
+    "issue" : 5,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "112" : {
+    "index" : 112,
+    "lvlLow" : 7,
+    "lvlHigh" : 10,
+    "title" : "In Defense of the Law",
+    "author" : "Carl Sargent",
+    "issue" : 8,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "113" : {
+    "index" : 113,
+    "lvlLow" : 7,
+    "lvlHigh" : 10,
+    "title" : "Palace in the Sky",
+    "author" : "Martin & John Szinger",
+    "issue" : 16,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "114" : {
+    "index" : 114,
+    "lvlLow" : 8,
+    "lvlHigh" : 10,
+    "title" : "After the Storm",
+    "author" : "Nick Kopsinis & Patrick G. Goshtigian",
+    "issue" : 6,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "115" : {
+    "index" : 115,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Book with No End, The",
+    "author" : "Richard W. Emerich",
+    "issue" : 3,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "116" : {
+    "index" : 116,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Bristanam's Cairn",
+    "author" : "John Nephew",
+    "issue" : 6,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "117" : {
+    "index" : 117,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Dark Conventicle, The",
+    "author" : "Richard W. Emerich",
+    "issue" : 11,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "118" : {
+    "index" : 118,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Out of the Ashes",
+    "author" : "Grant Boucher",
+    "issue" : 17,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "119" : {
+    "index" : 119,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Plight of Cirria, The",
+    "author" : "Grant and David Boucher",
+    "issue" : 9,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "120" : {
+    "index" : 120,
+    "lvlLow" : 8,
+    "lvlHigh" : 12,
+    "title" : "Question of Balance, A",
+    "author" : "Nigel D. Findley",
+    "issue" : 14,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "121" : {
+    "index" : 121,
+    "lvlLow" : 10,
+    "lvlHigh" : 20,
+    "title" : "Eyes of Evil, The",
+    "author" : "Tom Hickerson",
+    "issue" : 5,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "122" : {
+    "index" : 122,
+    "lvlLow" : 10,
+    "lvlHigh" : 20,
+    "title" : "Jingling Mordo Circus, The",
+    "author" : "Vic Broquard",
+    "issue" : 7,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "123" : {
+    "index" : 123,
+    "lvlLow" : 12,
+    "lvlHigh" : 13,
+    "title" : "Scepter of the Underworld",
+    "author" : "James Jacobs",
+    "issue" : 12,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "124" : {
+    "index" : 124,
+    "lvlLow" : 14,
+    "lvlHigh" : 18,
+    "title" : "Threshold of Evil",
+    "author" : "Scott Bennie",
+    "issue" : 10,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "125" : {
+    "index" : 125,
+    "lvlLow" : 1,
+    "lvlHigh" : 20,
+    "title" : "Going Once . . . Going Twice",
+    "author" : "Patricia Nead Elrod",
+    "issue" : 13,
+    "edition" : 1,
+    "campaign" : ""
+  },
+  "126" : {
+    "index" : 126,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Below Vulture Point",
+    "author" : "Jeff Fairbourn",
+    "issue" : 39,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "127" : {
+    "index" : 127,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Ashtar's Temple",
+    "author" : "DeAnna Ferguson",
+    "issue" : 81,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "128" : {
+    "index" : 128,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Bad Batch of Brownies, A",
+    "author" : "Lisa Smedman",
+    "issue" : 58,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "129" : {
+    "index" : 129,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Best Laid Plans, The",
+    "author" : "Kent Ertman",
+    "issue" : 79,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "130" : {
+    "index" : 130,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Carcass Fracas!",
+    "author" : "Stephen J. Smith",
+    "issue" : 57,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "131" : {
+    "index" : 131,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Clarshh's Sepulcher",
+    "author" : "Willie Walsh",
+    "issue" : 53,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "132" : {
+    "index" : 132,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Legacy of the Liosalfar",
+    "author" : "Chris Hind",
+    "issue" : 42,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "133" : {
+    "index" : 133,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Murder of Maury Miller, The",
+    "author" : "Cameron Widen",
+    "issue" : 57,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "134" : {
+    "index" : 134,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Scar, The",
+    "author" : "Ray Winninger",
+    "issue" : 80,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "135" : {
+    "index" : 135,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Visiting Tylwyth",
+    "author" : "Scott Walley",
+    "issue" : 77,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "136" : {
+    "index" : 136,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "When the Light Goes Out",
+    "author" : "Steve Loken",
+    "issue" : 47,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "137" : {
+    "index" : 137,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Alicorn",
+    "author" : "David Howery",
+    "issue" : 33,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "138" : {
+    "index" : 138,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Back to the Beach",
+    "author" : "Willie Walsh",
+    "issue" : 50,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "139" : {
+    "index" : 139,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Euphoria Horrors",
+    "author" : "Alan Grimes",
+    "issue" : 34,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "140" : {
+    "index" : 140,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Faerie Wood",
+    "author" : "Jeff Crook",
+    "issue" : 73,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "141" : {
+    "index" : 141,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Fraggart's Contraption",
+    "author" : "Willie Walsh",
+    "issue" : 50,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "142" : {
+    "index" : 142,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Hair Today, Gone Tomorrow",
+    "author" : "J. Bradley Schell",
+    "issue" : 49,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "143" : {
+    "index" : 143,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Invisible Stalker",
+    "author" : "Johnathan M. Richards",
+    "issue" : 63,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "144" : {
+    "index" : 144,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Janx's Jinx",
+    "author" : "Kent Ertman",
+    "issue" : 56,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "145" : {
+    "index" : 145,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Little People, The",
+    "author" : "Matthew G. Adkins",
+    "issue" : 67,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "146" : {
+    "index" : 146,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Local Legend, A",
+    "author" : "Greg Rick & Brad Schdell",
+    "issue" : 51,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "147" : {
+    "index" : 147,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "One Winter's Night",
+    "author" : "David Zenz",
+    "issue" : 68,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "148" : {
+    "index" : 148,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Peer Amid the Waters",
+    "author" : "Johnathan M. Richards",
+    "issue" : 78,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "149" : {
+    "index" : 149,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Rudwalla's Stew",
+    "author" : "Christopher Perkins",
+    "issue" : 45,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "150" : {
+    "index" : 150,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Skulting Below",
+    "author" : "Darren Dare",
+    "issue" : 81,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "151" : {
+    "index" : 151,
+    "lvlLow" : 1,
+    "lvlHigh" : 2,
+    "title" : "Through the Night",
+    "author" : "Leonard Wilson",
+    "issue" : 29,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "152" : {
+    "index" : 152,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Bad Seeds",
+    "author" : "Kevin Carter",
+    "issue" : 79,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "153" : {
+    "index" : 153,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Bandits of Bunglewood, The",
+    "author" : "Christopher Perkins",
+    "issue" : 51,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "154" : {
+    "index" : 154,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Ghost at Widder Smithers', The",
+    "author" : "John Baichtal",
+    "issue" : 52,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "155" : {
+    "index" : 155,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Hot Day in L'Trel, A",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 44,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "156" : {
+    "index" : 156,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Inheritance, The",
+    "author" : "Paul F. Culotta",
+    "issue" : 26,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "157" : {
+    "index" : 157,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Ironguard",
+    "author" : "Ed Greenwood",
+    "issue" : 18,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "158" : {
+    "index" : 158,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Keep for Sale",
+    "author" : "Peter Zollers",
+    "issue" : 79,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "159" : {
+    "index" : 159,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Orange and Black",
+    "author" : "Peter C. Spahn",
+    "issue" : 66,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "160" : {
+    "index" : 160,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Pakkililirr",
+    "author" : "Willie Walsh",
+    "issue" : 53,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "161" : {
+    "index" : 161,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Plundering Poppof",
+    "author" : "Andy Miller",
+    "issue" : 72,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "162" : {
+    "index" : 162,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Quoitine Quest",
+    "author" : "Greg Rick, Cal Rea & Kate Chadbourne",
+    "issue" : 73,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "163" : {
+    "index" : 163,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Race Against Time, A",
+    "author" : "Kent Ertman",
+    "issue" : 81,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "164" : {
+    "index" : 164,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Savage Beast",
+    "author" : "Ron Poirier",
+    "issue" : 55,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "165" : {
+    "index" : 165,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Scourge of Scalabar, The",
+    "author" : "Christopher Perkins",
+    "issue" : 74,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "166" : {
+    "index" : 166,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Song of the Fens",
+    "author" : "J. Bradley Schell",
+    "issue" : 40,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "167" : {
+    "index" : 167,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Stage Fright",
+    "author" : "Oliver Garbsch",
+    "issue" : 77,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "168" : {
+    "index" : 168,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Sunken Shadow, The",
+    "author" : "James Wyatt",
+    "issue" : 66,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "169" : {
+    "index" : 169,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Trouble with In-Laws, The",
+    "author" : "William Kenower",
+    "issue" : 68,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "170" : {
+    "index" : 170,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Whale, The",
+    "author" : "Wolfgang Baur",
+    "issue" : 35,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "171" : {
+    "index" : 171,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Wild in the Streets",
+    "author" : "W. Jason Peck",
+    "issue" : 62,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "172" : {
+    "index" : 172,
+    "lvlLow" : 1,
+    "lvlHigh" : 3,
+    "title" : "Wizard's Fate, A",
+    "author" : "Christopher Perkins",
+    "issue" : 37,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "173" : {
+    "index" : 173,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Ghost of Silverhill, The",
+    "author" : "Samuel Heath",
+    "issue" : 58,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "174" : {
+    "index" : 174,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "King Oleg's Dilemma",
+    "author" : "Lee Sheppard",
+    "issue" : 43,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "175" : {
+    "index" : 175,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Mightier than the Sword",
+    "author" : "Willie Walsh",
+    "issue" : 29,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "176" : {
+    "index" : 176,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Pearlman's Curiosity",
+    "author" : "Willie Walsh",
+    "issue" : 32,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "177" : {
+    "index" : 177,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Siege of Kratys Freehold, The",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 33,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "178" : {
+    "index" : 178,
+    "lvlLow" : 1,
+    "lvlHigh" : 4,
+    "title" : "Voyage of the Crimpshrine, The",
+    "author" : "Tony Ross",
+    "issue" : 59,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "179" : {
+    "index" : 179,
+    "lvlLow" : 1,
+    "lvlHigh" : 5,
+    "title" : "Pandora's Apprentice",
+    "author" : "Leonard Wilson",
+    "issue" : 38,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "180" : {
+    "index" : 180,
+    "lvlLow" : 1,
+    "lvlHigh" : 6,
+    "title" : "Old Man Katan and the Incredible, Edible Dancing Mushroom Band",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 41,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "181" : {
+    "index" : 181,
+    "lvlLow" : 1,
+    "lvlHigh" : 9,
+    "title" : "Door to Darkness, The",
+    "author" : "James Wyatt",
+    "issue" : 81,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "182" : {
+    "index" : 182,
+    "lvlLow" : 2,
+    "lvlHigh" : 3,
+    "title" : "Centaur of Attention",
+    "author" : "Johnathan M. Richards",
+    "issue" : 60,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "183" : {
+    "index" : 183,
+    "lvlLow" : 2,
+    "lvlHigh" : 3,
+    "title" : "Dark Forest, The",
+    "author" : "Dan Salas",
+    "issue" : 22,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "184" : {
+    "index" : 184,
+    "lvlLow" : 2,
+    "lvlHigh" : 3,
+    "title" : "Enormously Inconvenient",
+    "author" : "Kent Ertman",
+    "issue" : 66,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "185" : {
+    "index" : 185,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "All Things Nice",
+    "author" : "John Baichtal",
+    "issue" : 45,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "186" : {
+    "index" : 186,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Artist's Loving Touch, The",
+    "author" : "Charles C. Reed",
+    "issue" : 68,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "187" : {
+    "index" : 187,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Bigger They Are, The",
+    "author" : "Steve Johnson",
+    "issue" : 56,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "188" : {
+    "index" : 188,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Cauldron of Plenty, The",
+    "author" : "Willie Walsh",
+    "issue" : 21,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "189" : {
+    "index" : 189,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Day at the Market, A",
+    "author" : "Kevin Carter",
+    "issue" : 76,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "190" : {
+    "index" : 190,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Encounter in the Wildwood",
+    "author" : "Willie Walsh",
+    "issue" : 19,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "191" : {
+    "index" : 191,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Fruit of the Vine",
+    "author" : "Charles C. Reed",
+    "issue" : 76,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "192" : {
+    "index" : 192,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Homonculous Stew",
+    "author" : "Andrew DiFiore, Jr.",
+    "issue" : 70,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "193" : {
+    "index" : 193,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Jacob's Well",
+    "author" : "Randy Maxwell",
+    "issue" : 43,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "194" : {
+    "index" : 194,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Last of the Iron House",
+    "author" : "Jasper Jones",
+    "issue" : 39,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "195" : {
+    "index" : 195,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Menacing Malady, The",
+    "author" : "Christopher Perkins",
+    "issue" : 58,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "196" : {
+    "index" : 196,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Of Kings Unknown",
+    "author" : "Randy Maxwell",
+    "issue" : 25,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "197" : {
+    "index" : 197,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Their Master's Voice",
+    "author" : "Roger Baker",
+    "issue" : 37,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "198" : {
+    "index" : 198,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Troll Bridge",
+    "author" : "William S. Dean",
+    "issue" : 36,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "199" : {
+    "index" : 199,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Unhallowed Ground",
+    "author" : "Dan De Fazio",
+    "issue" : 54,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "200" : {
+    "index" : 200,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Vaka's Curse, The",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 50,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "201" : {
+    "index" : 201,
+    "lvlLow" : 2,
+    "lvlHigh" : 4,
+    "title" : "Whitelake Mine",
+    "author" : "Willie Walsh",
+    "issue" : 18,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "202" : {
+    "index" : 202,
+    "lvlLow" : 2,
+    "lvlHigh" : 5,
+    "title" : "Old Sea-Dog",
+    "author" : "Thomas M. Kane",
+    "issue" : 23,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "203" : {
+    "index" : 203,
+    "lvlLow" : 2,
+    "lvlHigh" : 5,
+    "title" : "Two for the Road",
+    "author" : "Tony Quick",
+    "issue" : 49,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "204" : {
+    "index" : 204,
+    "lvlLow" : 2,
+    "lvlHigh" : 5,
+    "title" : "Well of Lord Barcus, The",
+    "author" : "Roger Baker",
+    "issue" : 41,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "205" : {
+    "index" : 205,
+    "lvlLow" : 2,
+    "lvlHigh" : 5,
+    "title" : "Witch's Fiddle, The",
+    "author" : "Paul F. Culotta",
+    "issue" : 54,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "206" : {
+    "index" : 206,
+    "lvlLow" : 2,
+    "lvlHigh" : 20,
+    "title" : "Wrastle with Bertrum, A",
+    "author" : "Willie Walsh",
+    "issue" : 30,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "207" : {
+    "index" : 207,
+    "lvlLow" : 3,
+    "lvlHigh" : 4,
+    "title" : "Deadfalls on Nightwood Trail",
+    "author" : "Jay Ouzts",
+    "issue" : 26,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "208" : {
+    "index" : 208,
+    "lvlLow" : 3,
+    "lvlHigh" : 4,
+    "title" : "Iasc",
+    "author" : "Willie Walsh",
+    "issue" : 60,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "209" : {
+    "index" : 209,
+    "lvlLow" : 3,
+    "lvlHigh" : 4,
+    "title" : "Trial of the Frog",
+    "author" : "Tito Leati",
+    "issue" : 78,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "210" : {
+    "index" : 210,
+    "lvlLow" : 3,
+    "lvlHigh" : 4,
+    "title" : "Whistledown's Mantrap",
+    "author" : "J. Bradley Schell",
+    "issue" : 42,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "211" : {
+    "index" : 211,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Ancient Blood",
+    "author" : "Grant and David Boucher",
+    "issue" : 20,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "212" : {
+    "index" : 212,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Cloaked in Fear",
+    "author" : "Peter C. Spahn",
+    "issue" : 57,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "213" : {
+    "index" : 213,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Dark Days in Welldale",
+    "author" : "J. Mark Bicking",
+    "issue" : 33,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "214" : {
+    "index" : 214,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Feast of Flesh, A",
+    "author" : "Peter R. Hopkins",
+    "issue" : 77,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "215" : {
+    "index" : 215,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Fetch!",
+    "author" : "Matt Maaske",
+    "issue" : 54,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "216" : {
+    "index" : 216,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Goblin Fever",
+    "author" : "Randy Maxwell",
+    "issue" : 46,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "217" : {
+    "index" : 217,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Hurly-Burly Brothers, The",
+    "author" : "Kevin Wilson",
+    "issue" : 52,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "218" : {
+    "index" : 218,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Is There an Elf in the House?",
+    "author" : "Rafael Fay & Dan De Fazio",
+    "issue" : 32,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "219" : {
+    "index" : 219,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Mother's Curse, The",
+    "author" : "John Guzzetta",
+    "issue" : 59,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "220" : {
+    "index" : 220,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Moving Day",
+    "author" : "Roger Baker",
+    "issue" : 43,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "221" : {
+    "index" : 221,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "No Stone Unturned",
+    "author" : "Peter C. Spahn",
+    "issue" : 72,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "222" : {
+    "index" : 222,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Quelkin's Quandary",
+    "author" : "Christopher Perkins",
+    "issue" : 47,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "223" : {
+    "index" : 223,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Reflections",
+    "author" : "Lisa Doyle",
+    "issue" : 65,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "224" : {
+    "index" : 224,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Spellbook Masquerade",
+    "author" : "J. Lee Cunningham",
+    "issue" : 53,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "225" : {
+    "index" : 225,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Stumping the Party",
+    "author" : "Christopher Pomeroy",
+    "issue" : 69,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "226" : {
+    "index" : 226,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "To Walk Beneath the Waves",
+    "author" : "W. Jason Peck",
+    "issue" : 77,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "227" : {
+    "index" : 227,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Unkindness of Ravens, The",
+    "author" : "Jason Kuhl",
+    "issue" : 65,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "228" : {
+    "index" : 228,
+    "lvlLow" : 3,
+    "lvlHigh" : 5,
+    "title" : "Vanishing Village, The",
+    "author" : "Marcus Rowland",
+    "issue" : 19,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "229" : {
+    "index" : 229,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Beyond the Glittering Veil",
+    "author" : "Steven Kurtz",
+    "issue" : 31,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "230" : {
+    "index" : 230,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Caveat Emptor",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 58,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "231" : {
+    "index" : 231,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Courier Service",
+    "author" : "Ted James Thomas Zuvich",
+    "issue" : 27,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "232" : {
+    "index" : 232,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Crusader",
+    "author" : "Peter Lloyd-Lee",
+    "issue" : 76,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "233" : {
+    "index" : 233,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Dragon’s Delve",
+    "author" : "Christopher Perkins",
+    "issue" : 62,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "234" : {
+    "index" : 234,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Ghost of Mistmoor, The",
+    "author" : "Leonard Wilson",
+    "issue" : 35,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "235" : {
+    "index" : 235,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Hopeful Dawn",
+    "author" : "Gary Lai",
+    "issue" : 41,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "236" : {
+    "index" : 236,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Lenny O’Brien’s Pot o’ Gold",
+    "author" : "J. Lee Cunningham",
+    "issue" : 49,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "237" : {
+    "index" : 237,
+    "lvlLow" : 3,
+    "lvlHigh" : 6,
+    "title" : "Serpent's Tooth, The",
+    "author" : "Nigel D. Findley",
+    "issue" : 19,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "238" : {
+    "index" : 238,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "Asflag’s Unintentional Emporium",
+    "author" : "Willie Walsh",
+    "issue" : 36,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "239" : {
+    "index" : 239,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "Night of the Bloodbirds",
+    "author" : "Brian Corvello",
+    "issue" : 74,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "240" : {
+    "index" : 240,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "Things That Go Bump in the Night",
+    "author" : "Rich Stump",
+    "issue" : 38,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "241" : {
+    "index" : 241,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "Wedding Day",
+    "author" : "Paul F. Culotta",
+    "issue" : 59,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "242" : {
+    "index" : 242,
+    "lvlLow" : 3,
+    "lvlHigh" : 7,
+    "title" : "White Boar of Kilfay, The",
+    "author" : "Willie Walsh",
+    "issue" : 37,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "243" : {
+    "index" : 243,
+    "lvlLow" : 3,
+    "lvlHigh" : 9,
+    "title" : "Standing Stone of Sundown, The",
+    "author" : "Paul May",
+    "issue" : 25,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "244" : {
+    "index" : 244,
+    "lvlLow" : 4,
+    "lvlHigh" : 5,
+    "title" : "Beauty Corrupt",
+    "author" : "Kent Ertman",
+    "issue" : 63,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "245" : {
+    "index" : 245,
+    "lvlLow" : 4,
+    "lvlHigh" : 5,
+    "title" : "Nbod’s Room",
+    "author" : "Jeff Crook",
+    "issue" : 51,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "246" : {
+    "index" : 246,
+    "lvlLow" : 4,
+    "lvlHigh" : 5,
+    "title" : "Rogue",
+    "author" : "David Howery",
+    "issue" : 34,
+    "edition" : 2,
+    "campaign" : ""
+  },
+  "247" : {
+    "index" : 247,
+    "lvlLow" : 4,
+    "lvlHigh" : 6,
+    "title" : "Aerie Borne",
+    "author" : "Ralph Rea & Greg Rick",
+    "issue" : 40,
+    "edition" : 2,
+    "campaign" : ""
+  }
+}
