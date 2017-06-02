@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dungeon Magazine Adventure List</title>
+
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="bower_components/components-font-awesome/css/font-awesome.min.css">
+    <link rel="stylesheet" href="styles/styles.css">
+</head>
+
+<body ng-app="characterBuilder" ng-controller="MainController">
+    <div class="container-fluid">
+        <h1>Dungeon Magazine Adventure List</h1>
+        <a href="https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf">Official WotC conversion rules from previous editions</a>
+        <hr>
+        <table ng-if="content" class="table table-striped" ng-cloak>
+            <caption>A list of all Dungeon Magazine Adventures</caption>
+            <tr>
+                <th ng-click="sortBy('lvlLow')">Level (Low) <span ng-if="columnName === 'lvlLow'" sort-arrow></span></th>
+                <th ng-click="sortBy('lvlHigh')">Level (High) <span ng-if="columnName === 'lvlHigh'" sort-arrow></span></th>
+                <th ng-click="sortBy('title')">Title <span ng-if="columnName === 'title'" sort-arrow></span></th>
+                <th ng-click="sortBy('author')">Author(s) <span ng-if="columnName === 'author'" sort-arrow></span></th>
+                <th ng-click="sortBy('issue')">Issue <span ng-if="columnName === 'issue'" sort-arrow></span></th>
+                <th ng-click="sortBy('edition')">Edition <span ng-if="columnName === 'edition'" sort-arrow></span></th>
+                <th ng-click="sortBy('campaign')">Campaign <span ng-if="columnName === 'campaign'" sort-arrow></span></th>
+                <th ng-click="sortBy('featured')">Featured <span ng-if="columnName === 'featured'" sort-arrow></span></th>
+                <th ng-click="sortBy('notes')">Notes <span ng-if="columnName === 'notes'" sort-arrow></span></th>
+                <th ng-click="sortBy('adventurePath')">Adventure Path <span ng-if="columnName === 'adventurePath'" sort-arrow></span></th>
+            </tr>
+            <tr>
+                <th class="form-group"> <input type="number" min="0" ng-model="search.lvlLow"> </th>
+                <th> <input type="number" min="0" max="30" ng-model="search.lvlHigh"> </th>
+                <th> <input type="text" ng-model="search.title" ng-model-options="{debounce: 100}"> </th>
+                <th> <input type="text" ng-model="search.author" ng-model-options="{debounce: 100}"> </th>
+                <th> <input type="number" min="0" max="221" ng-model="search.issue"> </th>
+                <th> <input type="number" min="0" max="5" ng-model="search.edition"> </th>
+                <th> <input type="text" ng-model="search.campaign" ng-model-options="{debounce: 100}"> </th>
+                <th> <input type="checkbox" ng-model="search.featured" ng-model-options="{debounce: 100}"> </th>
+                <th> <input type="text" ng-model="search.notes" ng-model-options="{debounce: 100}"> </th>
+                <th> <input type="text" ng-model="search.adventurePath" ng-model-options="{debounce: 100}"> </th>
+            </tr>
+            <tr ng-repeat="adv in content | orderBy:columnName:reverse | contentFilter:search">
+                <td>{{::adv.lvlLow}}</td>
+                <td>{{::adv.lvlHigh}}</td>
+                <td>{{::adv.title}}</td>
+                <td>{{::adv.author}}</td>
+                <td>{{::adv.issue}}</td>
+                <td>{{::adv.edition}}</td>
+                <td>{{::adv.campaign}}</td>
+                <td><input ng-model="adv.featured" type="checkbox" disabled></td>
+                <td>{{::adv.notes}}</td>
+                <td>{{::adv.adventurePath}}</td>
+            </tr>
+        </table>
+    </div>
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-aria/angular-aria.min.js"></script>
+
+    <!--App files-->
+    <script src="app.js"></script>
+    <script src="controllers/mainController.js"></script>
+    <script src="directives/sortArrow.js"></script>
+    <script src="filters/contentFilter.js"></script>
+</body>
+
+</html>

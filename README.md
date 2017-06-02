@@ -8,3 +8,8 @@ You can see a working page here: http://dmadventures.comeze.com/
 Enjoy!
 
 I am not the lawful owner of any of the adventures published. I'm pretty sure they're all owned by Wizards of the Coast.
+
+## TODO:
+
+- Filter doesn't work properly for featured adventures
+- Need a clear all button
