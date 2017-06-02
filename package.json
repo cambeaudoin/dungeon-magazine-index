@@ -1,0 +1,22 @@
+{
+  "name": "dungeon-magazine-index",
+  "version": "1.0.0",
+  "description": "A sortable page for all the adventures in Dungeon Magazine",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "watch-http-server",
+    "start": "npm run server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cambeaudoin/dungeon-magazine-index.git"
+  },
+  "keywords": [],
+  "author": "Cam Beaudoin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cambeaudoin/dungeon-magazine-index/issues"
+  },
+  "homepage": "https://github.com/cambeaudoin/dungeon-magazine-index#readme"
+}
