@@ -28,10 +28,7 @@ app.controller('MainController', function ($scope, $http) {
 app.directive('sortArrow', [function () {
   return {
     restrict: 'A',
-    template: '<i class="fa" ng-class="{\'fa-arrow-up\': reverse, \'fa-arrow-down\': !reverse}" aria-hidden="true"></i>',
-    link: function (scope, elem) {
-      // console.log(scope, elem);
-    }
+    template: '<i class="fa" ng-class="{\'fa-arrow-up\': reverse, \'fa-arrow-down\': !reverse}" aria-hidden="true"></i>'
   }
 }])
 

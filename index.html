@@ -18,7 +18,7 @@
         <a href="https://media.wizards.com/2015/downloads/dnd/DnD_Conversions_1.0.pdf">Official WotC conversion rules from previous editions</a>
             <!--<button ng-click="clearFilters()" class="btn btn-default">Clear</button>-->
             <hr>
-            <table ng-if="content" class="table table-striped">
+            <table ng-if="content" class="table table-striped" ng-cloak>
                 <caption>A list of all Dungeon Magazine Adventures</caption>
                 <tr>
                     <th ng-click="sortBy('lvlLow')">Level (Low) <span ng-if="columnName === 'lvlLow'" sort-arrow></span></th>
@@ -33,16 +33,16 @@
                     <th ng-click="sortBy('adventurePath')">Adventure Path <span ng-if="columnName === 'adventurePath'" sort-arrow></span></th>
                 </tr>
                 <tr>
-                    <th> <input type="number" min="0" ng-model="search.lvlLow"> </th>
+                    <th class="form-group"> <input type="number" min="0" ng-model="search.lvlLow"> </th>
                     <th> <input type="number" min="0" max="30" ng-model="search.lvlHigh"> </th>
-                    <th> <input type="text" ng-model="search.title" ng-model-options="{debounce: 500}"> </th>
-                    <th> <input type="text" ng-model="search.author" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="text" ng-model="search.title" ng-model-options="{debounce: 100}"> </th>
+                    <th> <input type="text" ng-model="search.author" ng-model-options="{debounce: 100}"> </th>
                     <th> <input type="number" min="0" max="221" ng-model="search.issue"> </th>
-                    <th> <input type="number" min="0" max="4" ng-model="search.edition"> </th>
-                    <th> <input type="text" ng-model="search.campaign" ng-model-options="{debounce: 500}"> </th>
-                    <th> <input type="checkbox" ng-model="search.featured" ng-model-options="{debounce: 500}"> </th>
-                    <th> <input type="text" ng-model="search.notes" ng-model-options="{debounce: 500}"> </th>
-                    <th> <input type="text" ng-model="search.adventurePath" ng-model-options="{debounce: 500}"> </th>
+                    <th> <input type="number" min="0" max="5" ng-model="search.edition"> </th>
+                    <th> <input type="text" ng-model="search.campaign" ng-model-options="{debounce: 100}"> </th>
+                    <th> <input type="checkbox" ng-model="search.featured" ng-model-options="{debounce: 100}"> </th>
+                    <th> <input type="text" ng-model="search.notes" ng-model-options="{debounce: 100}"> </th>
+                    <th> <input type="text" ng-model="search.adventurePath" ng-model-options="{debounce: 100}"> </th>
                 </tr>
                 <tr ng-repeat="adv in content | orderBy:columnName:reverse | contentFilter:search">
                     <td>{{::adv.lvlLow}}</td>
